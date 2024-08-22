@@ -1,0 +1,585 @@
+2024/06/17 19:18:03 
+2024/06/17 19:18:03 Windows IP Configuration
+2024/06/17 19:18:03 
+2024/06/17 19:18:03 
+2024/06/17 19:18:03 Ethernet adapter Ethernet0:
+2024/06/17 19:18:03 
+2024/06/17 19:18:03    Connection-specific DNS Suffix  . : 
+2024/06/17 19:18:03    Link-local IPv6 Address . . . . . : fe80::2c1d:78d6:d66f:8c4b%4
+2024/06/17 19:18:03    IPv4 Address. . . . . . . . . . . : 192.168.110.23
+2024/06/17 19:18:03    Subnet Mask . . . . . . . . . . . : 255.255.255.0
+2024/06/17 19:18:03    Default Gateway . . . . . . . . . : 192.168.110.1
+2024/06/17 19:18:22 
+2024/06/17 19:18:22 Pinging google.com [142.251.43.14] with 32 bytes of data:
+2024/06/17 19:18:22 Reply from 142.251.43.14: bytes=32 time=54ms TTL=112
+2024/06/17 19:18:23 Reply from 142.251.43.14: bytes=32 time=52ms TTL=112
+2024/06/17 19:18:24 Reply from 142.251.43.14: bytes=32 time=56ms TTL=112
+2024/06/17 19:18:25 Reply from 142.251.43.14: bytes=32 time=53ms TTL=112
+2024/06/17 19:18:25 
+2024/06/17 19:18:25 Ping statistics for 142.251.43.14:
+2024/06/17 19:18:25     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+2024/06/17 19:18:25 Approximate round trip times in milli-seconds:
+2024/06/17 19:18:25     Minimum = 52ms, Maximum = 56ms, Average = 53ms
+2024/06/17 19:23:01 
+2024/06/17 19:23:01 Windows IP Configuration
+2024/06/17 19:23:01 
+2024/06/17 19:23:01 
+2024/06/17 19:23:02 Ethernet adapter Ethernet0:
+2024/06/17 19:23:02 
+2024/06/17 19:23:02    Connection-specific DNS Suffix  . : 
+2024/06/17 19:23:02    Link-local IPv6 Address . . . . . : fe80::2c1d:78d6:d66f:8c4b%4
+2024/06/17 19:23:02    IPv4 Address. . . . . . . . . . . : 192.168.110.23
+2024/06/17 19:23:02    Subnet Mask . . . . . . . . . . . : 255.255.255.0
+2024/06/17 19:23:02    Default Gateway . . . . . . . . . : 192.168.110.1
+2024/06/17 19:23:14  Volume in drive C has no label.
+2024/06/17 19:23:14  Volume Serial Number is E2AA-92FB
+2024/06/17 19:23:14 
+2024/06/17 19:23:14  Directory of C:\DemoGolang
+2024/06/17 19:23:14 
+2024/06/17 19:23:14 06/17/2024  07:22 PM    <DIR>          .
+2024/06/17 19:23:14 06/17/2024  07:22 PM    <DIR>          ..
+2024/06/17 19:23:14 06/17/2024  07:07 PM    <DIR>          .idea
+2024/06/17 19:23:14 06/17/2024  07:18 PM             1,226 command_log.txt
+2024/06/17 19:23:14 06/16/2024  07:13 PM                18 go.mod
+2024/06/17 19:23:14 06/17/2024  07:22 PM             2,611 main.go
+2024/06/17 19:23:14                3 File(s)          3,855 bytes
+2024/06/17 19:23:14                3 Dir(s)  61,809,119,232 bytes free
+ Volume in drive C has no label.
+ Volume Serial Number is E2AA-92FB
+
+ Directory of C:\DemoGolang
+
+06/17/2024  07:26 PM    <DIR>          .
+06/17/2024  07:26 PM    <DIR>          ..
+06/17/2024  07:07 PM    <DIR>          .idea
+06/17/2024  07:23 PM             2,501 command_log.txt
+06/16/2024  07:13 PM                18 go.mod
+06/17/2024  07:26 PM             2,493 main.go
+               3 File(s)          5,012 bytes
+               3 Dir(s)  61,807,353,856 bytes free
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2c1d:78d6:d66f:8c4b%4
+   IPv4 Address. . . . . . . . . . . : 192.168.110.23
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.110.1
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2c1d:78d6:d66f:8c4b%4
+   IPv4 Address. . . . . . . . . . . : 192.168.110.23
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.110.1
+ Volume in drive C has no label.
+ Volume Serial Number is E2AA-92FB
+
+ Directory of C:\DemoGolang
+
+06/17/2024  07:26 PM    <DIR>          .
+06/17/2024  07:26 PM    <DIR>          ..
+06/17/2024  07:07 PM    <DIR>          .idea
+06/17/2024  07:23 PM             2,501 command_log.txt
+06/16/2024  07:13 PM                18 go.mod
+06/17/2024  07:26 PM             2,493 main.go
+               3 File(s)          5,012 bytes
+               3 Dir(s)  61,807,222,784 bytes free
+ Volume in drive C has no label.
+ Volume Serial Number is E2AA-92FB
+
+ Directory of C:\DemoGolang
+
+06/17/2024  07:29 PM    <DIR>          .
+06/17/2024  07:29 PM    <DIR>          ..
+06/17/2024  07:07 PM    <DIR>          .idea
+06/17/2024  07:26 PM             4,139 command_log.txt
+06/16/2024  07:13 PM                18 go.mod
+06/17/2024  07:29 PM             2,277 main.go
+               3 File(s)          6,434 bytes
+               3 Dir(s)  61,806,153,728 bytes free
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2c1d:78d6:d66f:8c4b%4
+   IPv4 Address. . . . . . . . . . . : 192.168.110.23
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.110.1
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2c1d:78d6:d66f:8c4b%4
+   IPv4 Address. . . . . . . . . . . : 192.168.110.23
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.110.1
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2c1d:78d6:d66f:8c4b%4
+   IPv4 Address. . . . . . . . . . . : 192.168.110.23
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.110.1
+ Volume in drive C has no label.
+ Volume Serial Number is E2AA-92FB
+
+ Directory of C:\DemoGolang
+
+06/17/2024  08:13 PM    <DIR>          .
+06/17/2024  08:13 PM    <DIR>          ..
+06/17/2024  07:07 PM    <DIR>          .idea
+06/17/2024  07:29 PM             5,628 command_log.txt
+06/16/2024  07:13 PM                18 go.mod
+06/17/2024  08:13 PM             3,417 main.go
+               3 File(s)          9,063 bytes
+               3 Dir(s)  61,801,222,144 bytes free
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2c1d:78d6:d66f:8c4b%4
+   IPv4 Address. . . . . . . . . . . : 192.168.110.23
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.110.1
+Usage: shutdown [/i | /l | /s | /sg | /r | /g | /a | /p | /h | /e | /o] [/hybrid] [/soft] [/fw] [/f]
+    [/m \\computer][/t xxx][/d [p|u:]xx:yy [/c "comment"]]
+
+    No args    Display help. This is the same as typing /?.
+    /?         Display help. This is the same as not typing any options.
+    /i         Display the graphical user interface (GUI).
+               This must be the first option.
+    /l         Log off. This cannot be used with /m or /d options.
+    /s         Shutdown the computer.
+    /sg        Shutdown the computer. On the next boot, if Automatic Restart Sign-On
+               is enabled, automatically sign in and lock last interactive user.
+               After sign in, restart any registered applications.
+    /r         Full shutdown and restart the computer.
+    /g         Full shutdown and restart the computer. After the system is rebooted,
+               if Automatic Restart Sign-On is enabled, automatically sign in and
+               lock last interactive user.
+               After sign in, restart any registered applications.
+    /a         Abort a system shutdown.
+               This can only be used during the time-out period.
+               Combine with /fw to clear any pending boots to firmware.
+    /p         Turn off the local computer with no time-out or warning.
+               Can be used with /d and /f options.
+    /h         Hibernate the local computer.
+               Can be used with the /f option.
+    /hybrid    Performs a shutdown of the computer and prepares it for fast startup.
+               Must be used with /s option.
+    /fw        Combine with a shutdown option to cause the next boot to go to the
+               firmware user interface.
+    /e         Document the reason for an unexpected shutdown of a computer.
+    /o         Go to the advanced boot options menu and restart the computer.
+               Must be used with /r option.
+    /m \\computer Specify the target computer.
+    /t xxx     Set the time-out period before shutdown to xxx seconds.
+               The valid range is 0-315360000 (10 years), with a default of 30.
+               If the timeout period is greater than 0, the /f parameter is
+               implied.
+    /c "comment" Comment on the reason for the restart or shutdown.
+               Maximum of 512 characters allowed.
+    /f         Force running applications to close without forewarning users.
+               The /f parameter is implied when a value greater than 0 is
+               specified for the /t parameter.
+    /d [p|u:]xx:yy  Provide the reason for the restart or shutdown.
+               p indicates that the restart or shutdown is planned.
+               u indicates that the reason is user defined.
+               If neither p nor u is specified the restart or shutdown is
+               unplanned.
+               xx is the major reason number (positive integer less than 256).
+               yy is the minor reason number (positive integer less than 65536).
+
+Reasons on this computer:
+(E = Expected U = Unexpected P = planned, C = customer defined)
+Type	Major	Minor	Title
+
+ U  	0	0	Other (Unplanned)
+E   	0	0	Other (Unplanned)
+E P 	0	0	Other (Planned)
+ U  	0	5	Other Failure: System Unresponsive
+E   	1	1	Hardware: Maintenance (Unplanned)
+E P 	1	1	Hardware: Maintenance (Planned)
+E   	1	2	Hardware: Installation (Unplanned)
+E P 	1	2	Hardware: Installation (Planned)
+E   	2	2	Operating System: Recovery (Unplanned)
+E P 	2	2	Operating System: Recovery (Planned)
+  P 	2	3	Operating System: Upgrade (Planned)
+E   	2	4	Operating System: Reconfiguration (Unplanned)
+E P 	2	4	Operating System: Reconfiguration (Planned)
+  P 	2	16	Operating System: Service pack (Planned)
+    	2	17	Operating System: Hot fix (Unplanned)
+  P 	2	17	Operating System: Hot fix (Planned)
+    	2	18	Operating System: Security fix (Unplanned)
+  P 	2	18	Operating System: Security fix (Planned)
+E   	4	1	Application: Maintenance (Unplanned)
+E P 	4	1	Application: Maintenance (Planned)
+E P 	4	2	Application: Installation (Planned)
+E   	4	5	Application: Unresponsive
+E   	4	6	Application: Unstable
+ U  	5	15	System Failure: Stop error
+ U  	5	19	Security issue (Unplanned)
+E   	5	19	Security issue (Unplanned)
+E P 	5	19	Security issue (Planned)
+E   	5	20	Loss of network connectivity (Unplanned)
+ U  	6	11	Power Failure: Cord Unplugged
+ U  	6	12	Power Failure: Environment
+  P 	7	0	Legacy API shutdown
+Unable to abort the system shutdown because no shutdown was in progress.(1116)
+
+Pinging google.com [172.217.163.46] with 32 bytes of data:
+Reply from 172.217.163.46: bytes=32 time=55ms TTL=112
+Reply from 172.217.163.46: bytes=32 time=45ms TTL=112
+Reply from 172.217.163.46: bytes=32 time=46ms TTL=112
+Reply from 172.217.163.46: bytes=32 time=46ms TTL=112
+
+Ping statistics for 172.217.163.46:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 45ms, Maximum = 55ms, Average = 48ms
+
+Pinging google.com [172.217.163.46] with 32 bytes of data:
+Reply from 172.217.163.46: bytes=32 time=49ms TTL=112
+Reply from 172.217.163.46: bytes=32 time=47ms TTL=112
+Reply from 172.217.163.46: bytes=32 time=45ms TTL=112
+Reply from 172.217.163.46: bytes=32 time=45ms TTL=112
+
+Ping statistics for 172.217.163.46:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 45ms, Maximum = 49ms, Average = 46ms
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2c1d:78d6:d66f:8c4b%4
+   IPv4 Address. . . . . . . . . . . : 192.168.110.23
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.110.1
+ Volume in drive C has no label.
+ Volume Serial Number is E2AA-92FB
+
+ Directory of C:\DemoGolang
+
+06/17/2024  08:58 PM    <DIR>          .
+06/17/2024  08:58 PM    <DIR>          ..
+06/17/2024  07:07 PM    <DIR>          .idea
+06/17/2024  08:56 PM            11,395 command_log.txt
+06/16/2024  07:13 PM                18 go.mod
+06/17/2024  08:58 PM             2,141 main.go
+               3 File(s)         13,554 bytes
+               3 Dir(s)  61,942,235,136 bytes free
+ Volume in drive C has no label.
+ Volume Serial Number is E2AA-92FB
+
+ Directory of C:\DemoGolang
+
+06/17/2024  08:58 PM    <DIR>          .
+06/17/2024  08:58 PM    <DIR>          ..
+06/17/2024  07:07 PM    <DIR>          .idea
+06/17/2024  08:56 PM            11,395 command_log.txt
+06/16/2024  07:13 PM                18 go.mod
+06/17/2024  08:58 PM             2,141 main.go
+               3 File(s)         13,554 bytes
+               3 Dir(s)  61,942,231,040 bytes free
+2024/06/17 21:02:47 STDOUT: 
+
+2024/06/17 21:02:47 STDOUT: Pinging google.com [142.250.204.142] with 32 bytes of data:
+
+2024/06/17 21:02:48 STDOUT: Reply from 142.250.204.142: bytes=32 time=57ms TTL=57
+
+2024/06/17 21:02:49 STDOUT: Reply from 142.250.204.142: bytes=32 time=54ms TTL=57
+
+2024/06/17 21:02:50 STDOUT: Reply from 142.250.204.142: bytes=32 time=58ms TTL=57
+
+2024/06/17 21:02:51 STDOUT: Reply from 142.250.204.142: bytes=32 time=52ms TTL=57
+
+2024/06/17 21:02:51 STDOUT: 
+
+2024/06/17 21:02:51 STDOUT: Ping statistics for 142.250.204.142:
+
+2024/06/17 21:02:51 STDOUT:     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+
+2024/06/17 21:02:51 STDOUT: Approximate round trip times in milli-seconds:
+
+2024/06/17 21:02:51 STDOUT:     Minimum = 52ms, Maximum = 58ms, Average = 55ms
+
+2024/06/17 21:03:22 STDOUT:  Volume in drive C has no label.
+
+2024/06/17 21:03:22 STDOUT:  Volume Serial Number is E2AA-92FB
+
+2024/06/17 21:03:22 STDOUT: 
+
+2024/06/17 21:03:22 STDOUT:  Directory of C:\DemoGolang
+
+2024/06/17 21:03:22 STDOUT: 
+
+2024/06/17 21:03:22 STDOUT: 06/17/2024  09:02 PM    <DIR>          .
+
+2024/06/17 21:03:22 STDOUT: 06/17/2024  09:02 PM    <DIR>          ..
+
+2024/06/17 21:03:22 STDOUT: 06/17/2024  07:07 PM    <DIR>          .idea
+
+2024/06/17 21:03:22 STDOUT: 06/17/2024  09:02 PM            13,977 command_log.txt
+
+2024/06/17 21:03:22 STDOUT: 06/16/2024  07:13 PM                18 go.mod
+
+2024/06/17 21:03:22 STDOUT: 06/17/2024  09:02 PM             2,569 main.go
+
+2024/06/17 21:03:22 STDOUT:                3 File(s)         16,564 bytes
+
+2024/06/17 21:03:22 STDOUT:                3 Dir(s)  61,941,215,232 bytes free
+
+2024/06/17 21:03:32 STDOUT: 
+
+2024/06/17 21:03:32 STDOUT: Pinging google.com [142.250.204.142] with 32 bytes of data:
+
+2024/06/17 21:03:32 STDOUT: Reply from 142.250.204.142: bytes=32 time=66ms TTL=57
+
+2024/06/17 21:03:33 STDOUT: Reply from 142.250.204.142: bytes=32 time=53ms TTL=57
+
+2024/06/17 21:03:34 STDOUT: Reply from 142.250.204.142: bytes=32 time=53ms TTL=57
+
+2024/06/17 21:03:35 STDOUT: Reply from 142.250.204.142: bytes=32 time=53ms TTL=57
+
+2024/06/17 21:03:35 STDOUT: 
+
+2024/06/17 21:03:35 STDOUT: Ping statistics for 142.250.204.142:
+
+2024/06/17 21:03:35 STDOUT:     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+
+2024/06/17 21:03:35 STDOUT: Approximate round trip times in milli-seconds:
+
+2024/06/17 21:03:35 STDOUT:     Minimum = 53ms, Maximum = 66ms, Average = 56ms
+
+STDOUT: 
+STDOUT: Pinging google.com [142.250.204.142] with 32 bytes of data:
+STDOUT: Reply from 142.250.204.142: bytes=32 time=79ms TTL=57
+STDOUT: Reply from 142.250.204.142: bytes=32 time=52ms TTL=57
+STDOUT: Reply from 142.250.204.142: bytes=32 time=52ms TTL=57
+STDOUT: Reply from 142.250.204.142: bytes=32 time=54ms TTL=57
+STDOUT: 
+STDOUT: Ping statistics for 142.250.204.142:
+STDOUT:     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+STDOUT: Approximate round trip times in milli-seconds:
+STDOUT:     Minimum = 52ms, Maximum = 79ms, Average = 59ms
+STDOUT: 
+STDOUT: Pinging google.com [142.251.43.14] with 32 bytes of data:
+STDOUT: Reply from 142.251.43.14: bytes=32 time=54ms TTL=112
+STDOUT: Reply from 142.251.43.14: bytes=32 time=51ms TTL=112
+STDOUT: Reply from 142.251.43.14: bytes=32 time=51ms TTL=112
+STDOUT: Reply from 142.251.43.14: bytes=32 time=55ms TTL=112
+STDOUT: 
+STDOUT: Ping statistics for 142.251.43.14:
+STDOUT:     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+STDOUT: Approximate round trip times in milli-seconds:
+STDOUT:     Minimum = 51ms, Maximum = 55ms, Average = 52ms
+STDOUT:  Volume in drive C has no label.
+STDOUT:  Volume Serial Number is E2AA-92FB
+STDOUT: 
+STDOUT:  Directory of C:\DemoGolang
+STDOUT: 
+STDOUT: 06/17/2024  09:06 PM    <DIR>          .
+STDOUT: 06/17/2024  09:06 PM    <DIR>          ..
+STDOUT: 06/17/2024  07:07 PM    <DIR>          .idea
+STDOUT: 06/17/2024  09:07 PM            16,207 command_log.txt
+STDOUT: 06/16/2024  07:13 PM                18 go.mod
+STDOUT: 06/17/2024  09:06 PM             2,734 main.go
+STDOUT:                3 File(s)         18,959 bytes
+STDOUT:                3 Dir(s)  61,941,866,496 bytes free
+STDOUT: 
+STDOUT: Windows IP Configuration
+STDOUT: 
+STDOUT: 
+STDOUT: Ethernet adapter Ethernet0:
+STDOUT: 
+STDOUT:    Connection-specific DNS Suffix  . : 
+STDOUT:    Link-local IPv6 Address . . . . . : fe80::2c1d:78d6:d66f:8c4b%4
+STDOUT:    IPv4 Address. . . . . . . . . . . : 192.168.110.23
+STDOUT:    Subnet Mask . . . . . . . . . . . : 255.255.255.0
+STDOUT:    Default Gateway . . . . . . . . . : 192.168.110.1
+STDOUT:  Volume in drive C has no label.
+STDOUT:  Volume Serial Number is E2AA-92FB
+STDOUT: 
+STDOUT:  Directory of C:\DemoGolang
+STDOUT: 
+STDOUT: 06/17/2024  09:06 PM    <DIR>          .
+STDOUT: 06/17/2024  09:06 PM    <DIR>          ..
+STDOUT: 06/17/2024  09:25 PM    <DIR>          .idea
+STDOUT: 06/17/2024  09:09 PM            17,779 command_log.txt
+STDOUT: 06/16/2024  07:13 PM                18 go.mod
+STDOUT: 06/17/2024  09:06 PM             2,734 main.go
+STDOUT:                3 File(s)         20,531 bytes
+STDOUT:                3 Dir(s)  61,947,879,424 bytes free
+STDERR: 'READ_LOG' is not recognized as an internal or external command,
+STDERR: operable program or batch file.
+[2024-06-17 21:52:26] STDERR: 'READ_LOG' is not recognized as an internal or external command,
+[2024-06-17 21:52:26] STDERR: operable program or batch file.
+[2024-06-17 21:52:36] STDERR: 'ls' is not recognized as an internal or external command,
+[2024-06-17 21:52:36] STDERR: operable program or batch file.
+[2024-06-17 21:53:07] STDOUT: 
+[2024-06-17 21:53:07] STDOUT: Pinging google.com [172.217.160.110] with 32 bytes of data:
+[2024-06-17 21:53:07] STDOUT: Reply from 172.217.160.110: bytes=32 time=49ms TTL=112
+[2024-06-17 21:53:08] STDOUT: Reply from 172.217.160.110: bytes=32 time=47ms TTL=112
+[2024-06-17 21:53:09] STDOUT: Reply from 172.217.160.110: bytes=32 time=56ms TTL=112
+[2024-06-17 21:53:10] STDOUT: Reply from 172.217.160.110: bytes=32 time=46ms TTL=112
+[2024-06-17 21:53:10] STDOUT: 
+[2024-06-17 21:53:10] STDOUT: Ping statistics for 172.217.160.110:
+[2024-06-17 21:53:10] STDOUT:     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+[2024-06-17 21:53:10] STDOUT: Approximate round trip times in milli-seconds:
+[2024-06-17 21:53:10] STDOUT:     Minimum = 46ms, Maximum = 56ms, Average = 49ms
+[2024-06-17 21:55:36] STDERR: 'READ_LOG' is not recognized as an internal or external command,
+[2024-06-17 21:55:36] STDERR: operable program or batch file.
+[2024-06-17 21:55:41] STDERR: 'ls' is not recognized as an internal or external command,
+[2024-06-17 21:55:41] STDERR: operable program or batch file.
+[2024-06-17 21:58:29] STDOUT: 
+[2024-06-17 21:58:29] STDOUT: Pinging google.com [172.217.160.110] with 32 bytes of data:
+[2024-06-17 21:58:29] STDOUT: Reply from 172.217.160.110: bytes=32 time=51ms TTL=112
+[2024-06-17 21:58:30] STDOUT: Reply from 172.217.160.110: bytes=32 time=47ms TTL=112
+[2024-06-17 21:58:31] STDOUT: Reply from 172.217.160.110: bytes=32 time=47ms TTL=112
+[2024-06-17 21:58:32] STDOUT: Reply from 172.217.160.110: bytes=32 time=47ms TTL=112
+[2024-06-17 21:58:32] STDOUT: 
+[2024-06-17 21:58:32] STDOUT: Ping statistics for 172.217.160.110:
+[2024-06-17 21:58:32] STDOUT:     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+[2024-06-17 21:58:32] STDOUT: Approximate round trip times in milli-seconds:
+[2024-06-17 21:58:32] STDOUT:     Minimum = 47ms, Maximum = 51ms, Average = 48ms
+[2024-06-17 22:01:07] STDOUT:  Volume in drive C has no label.
+[2024-06-17 22:01:07] STDOUT:  Volume Serial Number is E2AA-92FB
+[2024-06-17 22:01:07] STDOUT: 
+[2024-06-17 22:01:07] STDOUT:  Directory of C:\DemoGolang
+[2024-06-17 22:01:07] STDOUT: 
+[2024-06-17 22:01:07] STDOUT: 06/17/2024  10:00 PM    <DIR>          .
+[2024-06-17 22:01:07] STDOUT: 06/17/2024  10:00 PM    <DIR>          ..
+[2024-06-17 22:01:07] STDOUT: 06/17/2024  09:25 PM    <DIR>          .idea
+[2024-06-17 22:01:07] STDOUT: 06/17/2024  09:58 PM            20,706 command_log.txt
+[2024-06-17 22:01:07] STDOUT: 06/16/2024  07:13 PM                18 go.mod
+[2024-06-17 22:01:07] STDOUT: 06/17/2024  10:00 PM             4,194 main.go
+[2024-06-17 22:01:07] STDOUT:                3 File(s)         24,918 bytes
+[2024-06-17 22:01:07] STDOUT:                3 Dir(s)  61,944,205,312 bytes free
+[2024-06-18 02:47:20] STDOUT: 
+[2024-06-18 02:47:20] STDOUT: Pinging google.com [142.250.71.142] with 32 bytes of data:
+[2024-06-18 02:47:20] STDOUT: Reply from 142.250.71.142: bytes=32 time=43ms TTL=116
+[2024-06-18 02:47:21] STDOUT: Reply from 142.250.71.142: bytes=32 time=37ms TTL=116
+[2024-06-18 02:47:22] STDOUT: Reply from 142.250.71.142: bytes=32 time=37ms TTL=116
+[2024-06-18 02:47:24] STDOUT: Reply from 142.250.71.142: bytes=32 time=37ms TTL=116
+[2024-06-18 02:47:24] STDOUT: 
+[2024-06-18 02:47:24] STDOUT: Ping statistics for 142.250.71.142:
+[2024-06-18 02:47:24] STDOUT:     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+[2024-06-18 02:47:24] STDOUT: Approximate round trip times in milli-seconds:
+[2024-06-18 02:47:24] STDOUT:     Minimum = 37ms, Maximum = 43ms, Average = 38ms
+[2024-06-18 02:48:15] STDOUT: 
+[2024-06-18 02:48:15] STDOUT: Windows IP Configuration
+[2024-06-18 02:48:15] STDOUT: 
+[2024-06-18 02:48:15] STDOUT: 
+[2024-06-18 02:48:15] STDOUT: Ethernet adapter Ethernet0:
+[2024-06-18 02:48:15] STDOUT: 
+[2024-06-18 02:48:15] STDOUT:    Connection-specific DNS Suffix  . : 
+[2024-06-18 02:48:15] STDOUT:    Link-local IPv6 Address . . . . . : fe80::2c1d:78d6:d66f:8c4b%4
+[2024-06-18 02:48:15] STDOUT:    IPv4 Address. . . . . . . . . . . : 192.168.110.23
+[2024-06-18 02:48:15] STDOUT:    Subnet Mask . . . . . . . . . . . : 255.255.255.0
+[2024-06-18 02:48:15] STDOUT:    Default Gateway . . . . . . . . . : 192.168.110.1
+[2024-06-18 02:52:01] STDOUT: 
+[2024-06-18 02:52:01] STDOUT: Pinging google.com [172.217.24.78] with 32 bytes of data:
+[2024-06-18 02:52:01] STDOUT: Reply from 172.217.24.78: bytes=32 time=53ms TTL=57
+[2024-06-18 02:52:02] STDOUT: Reply from 172.217.24.78: bytes=32 time=48ms TTL=57
+[2024-06-18 02:52:03] STDOUT: Reply from 172.217.24.78: bytes=32 time=48ms TTL=57
+[2024-06-18 02:52:04] STDOUT: Reply from 172.217.24.78: bytes=32 time=49ms TTL=57
+[2024-06-18 02:52:04] STDOUT: 
+[2024-06-18 02:52:04] STDOUT: Ping statistics for 172.217.24.78:
+[2024-06-18 02:52:04] STDOUT:     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+[2024-06-18 02:52:04] STDOUT: Approximate round trip times in milli-seconds:
+[2024-06-18 02:52:04] STDOUT:     Minimum = 48ms, Maximum = 53ms, Average = 49ms
+[2024-06-18 02:52:14] STDOUT: 
+[2024-06-18 02:52:14] STDOUT: Windows IP Configuration
+[2024-06-18 02:52:14] STDOUT: 
+[2024-06-18 02:52:14] STDOUT: 
+[2024-06-18 02:52:14] STDOUT: Ethernet adapter Ethernet0:
+[2024-06-18 02:52:14] STDOUT: 
+[2024-06-18 02:52:14] STDOUT:    Connection-specific DNS Suffix  . : 
+[2024-06-18 02:52:14] STDOUT:    Link-local IPv6 Address . . . . . : fe80::2c1d:78d6:d66f:8c4b%4
+[2024-06-18 02:52:14] STDOUT:    IPv4 Address. . . . . . . . . . . : 192.168.110.23
+[2024-06-18 02:52:14] STDOUT:    Subnet Mask . . . . . . . . . . . : 255.255.255.0
+[2024-06-18 02:52:14] STDOUT:    Default Gateway . . . . . . . . . : 192.168.110.1
+[2024-06-20 23:03:36] STDERR: 'ls' is not recognized as an internal or external command,
+[2024-06-20 23:03:36] STDERR: operable program or batch file.
+[2024-06-20 23:04:41] STDOUT: 
+[2024-06-20 23:04:41] STDOUT: Pinging google.com [172.217.27.14] with 32 bytes of data:
+[2024-06-20 23:04:41] STDOUT: Reply from 172.217.27.14: bytes=32 time=42ms TTL=57
+[2024-06-20 23:04:42] STDOUT: Reply from 172.217.27.14: bytes=32 time=38ms TTL=57
+[2024-06-20 23:04:43] STDOUT: Reply from 172.217.27.14: bytes=32 time=39ms TTL=57
+[2024-06-20 23:04:44] STDOUT: Reply from 172.217.27.14: bytes=32 time=38ms TTL=57
+[2024-06-20 23:04:44] STDOUT: 
+[2024-06-20 23:04:44] STDOUT: Ping statistics for 172.217.27.14:
+[2024-06-20 23:04:44] STDOUT:     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+[2024-06-20 23:04:44] STDOUT: Approximate round trip times in milli-seconds:
+[2024-06-20 23:04:44] STDOUT:     Minimum = 38ms, Maximum = 42ms, Average = 39ms
+[2024-06-20 23:05:28] STDERR: 'ls' is not recognized as an internal or external command,
+[2024-06-20 23:05:28] STDERR: operable program or batch file.
+[2024-06-20 23:06:19] STDOUT: Ping request could not find host google. Please check the name and try again.
+[2024-06-20 23:09:42] STDERR: 'ls' is not recognized as an internal or external command,
+[2024-06-20 23:09:42] STDERR: operable program or batch file.
+[2024-06-20 23:10:13] STDOUT: Ping request could not find host google. Please check the name and try again.
+[2024-06-20 23:10:51] STDERR: 'abcd' is not recognized as an internal or external command,
+[2024-06-20 23:10:51] STDERR: operable program or batch file.
+[2024-06-20 23:12:13] STDERR: 'ls' is not recognized as an internal or external command,
+[2024-06-20 23:12:13] STDERR: operable program or batch file.
+[2024-06-20 23:12:19] STDERR: 'ngu' is not recognized as an internal or external command,
+[2024-06-20 23:12:19] STDERR: operable program or batch file.
+[2024-06-20 23:12:31] STDERR: 'ngu' is not recognized as an internal or external command,
+[2024-06-20 23:12:31] STDERR: operable program or batch file.
+[2024-06-20 23:13:11] STDERR: 'ls' is not recognized as an internal or external command,
+[2024-06-20 23:13:11] STDERR: operable program or batch file.
+[2024-06-20 23:14:06] STDERR: 'ls' is not recognized as an internal or external command,
+[2024-06-20 23:14:06] STDERR: operable program or batch file.
+[2024-06-20 23:15:05] STDOUT: 
+[2024-06-20 23:15:05] STDOUT: Pinging google.com [172.217.27.46] with 32 bytes of data:
+[2024-06-20 23:15:05] STDOUT: Reply from 172.217.27.46: bytes=32 time=36ms TTL=116
+[2024-06-20 23:15:06] STDOUT: Reply from 172.217.27.46: bytes=32 time=32ms TTL=116
+[2024-06-20 23:15:07] STDOUT: Reply from 172.217.27.46: bytes=32 time=31ms TTL=116
+[2024-06-20 23:15:08] STDOUT: Reply from 172.217.27.46: bytes=32 time=33ms TTL=116
+[2024-06-20 23:15:08] STDOUT: 
+[2024-06-20 23:15:08] STDOUT: Ping statistics for 172.217.27.46:
+[2024-06-20 23:15:08] STDOUT:     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+[2024-06-20 23:15:08] STDOUT: Approximate round trip times in milli-seconds:
+[2024-06-20 23:15:08] STDOUT:     Minimum = 31ms, Maximum = 36ms, Average = 33ms
+[2024-06-20 23:18:27] STDERR: 'ls' is not recognized as an internal or external command,
+[2024-06-20 23:18:27] STDERR: operable program or batch file.
+[2024-06-20 23:19:57] STDOUT: 
+[2024-06-20 23:19:57] STDOUT: Pinging google.com [172.217.24.110] with 32 bytes of data:
+[2024-06-20 23:19:58] STDOUT: Reply from 172.217.24.110: bytes=32 time=58ms TTL=116
+[2024-06-20 23:19:59] STDOUT: Reply from 172.217.24.110: bytes=32 time=55ms TTL=116
+[2024-06-20 23:20:00] STDOUT: Reply from 172.217.24.110: bytes=32 time=57ms TTL=116
+[2024-06-20 23:20:01] STDOUT: Reply from 172.217.24.110: bytes=32 time=62ms TTL=116
+[2024-06-20 23:20:01] STDOUT: 
+[2024-06-20 23:20:01] STDOUT: Ping statistics for 172.217.24.110:
+[2024-06-20 23:20:01] STDOUT:     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+[2024-06-20 23:20:01] STDOUT: Approximate round trip times in milli-seconds:
+[2024-06-20 23:20:01] STDOUT:     Minimum = 55ms, Maximum = 62ms, Average = 58ms
+[2024-06-20 23:22:28] STDERR: 'abcd' is not recognized as an internal or external command,
+[2024-06-20 23:22:28] STDERR: operable program or batch file.
+[2024-06-20 23:31:12] STDERR: 'ls' is not recognized as an internal or external command,
+[2024-06-20 23:31:12] STDERR: operable program or batch file.
